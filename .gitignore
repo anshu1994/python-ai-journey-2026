@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.pytest_cache/
+Python AI Journey 2026 - Setup Notes.pdf
